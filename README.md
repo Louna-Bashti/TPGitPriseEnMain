@@ -6,4 +6,3 @@
 
 // Question 1 : Je mets des commentaires (avant le premier commit)
 //jkfdhsljfksdhfhlsdjfhqmsdjfq
-//hello world
